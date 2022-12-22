@@ -4,4 +4,4 @@ my itch.io page.
 
 Feel free to try it out! 
 https://velvetties.itch.io/haunted-clicker
-* works better on mobile devices *
+* works better on mobile devices
